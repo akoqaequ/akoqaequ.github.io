@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://akoqaequ.github.io/HUw/sitemap_index.txt
+Sitemap: https://akoqaequ.github.io/JLT/sitemap_index.txt
+Sitemap: https://akoqaequ.github.io/Scl/sitemap_index.txt
+Sitemap: https://akoqaequ.github.io/usZ/sitemap_index.txt
